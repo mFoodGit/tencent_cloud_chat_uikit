@@ -1,0 +1,1196 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_fe_analyzer_shared",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/_fe_analyzer_shared-61.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "adaptive_action_sheet",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/adaptive_action_sheet-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "analyzer",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/analyzer-5.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/args-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "audioplayers",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/audioplayers-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "audioplayers_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/audioplayers_android-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "audioplayers_darwin",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/audioplayers_darwin-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "audioplayers_linux",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/audioplayers_linux-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "audioplayers_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/audioplayers_platform_interface-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "audioplayers_web",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/audioplayers_web-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "audioplayers_windows",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/audioplayers_windows-1.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "azlistview_all_platforms",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/azlistview_all_platforms-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "build",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/build-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "build_config",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/build_config-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_daemon",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/build_daemon-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "build_resolvers",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/build_resolvers-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "build_runner",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/build_runner-2.4.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "build_runner_core",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/build_runner_core-7.2.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "built_collection",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/built_collection-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "built_value",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/built_value-8.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cached_network_image",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image-3.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cached_network_image_web",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/cached_network_image_web-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "camera",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/camera-0.10.5+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "camera_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/camera_android-0.10.8+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "camera_avfoundation",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/camera_avfoundation-0.9.13+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "camera_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/camera_platform_interface-2.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "camera_web",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/camera_web-0.3.1+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/characters-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/charcode-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "checked_yaml",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/checked_yaml-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "chewie_for_us",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/chewie_for_us-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "code_builder",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/code_builder-4.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/collection-1.17.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "cross_file",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/cross_file-0.3.3+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "csslib",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/csslib-0.17.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "csv",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/csv-5.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/cupertino_icons-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dart_style",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/dart_style-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "desktop_drop",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/desktop_drop-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "device_info_plus",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/device_info_plus-9.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "device_info_plus_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/device_info_plus_platform_interface-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "diff_match_patch",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/diff_match_patch-0.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "disk_space",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/disk_space-0.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "dotted_border",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/dotted_border-2.0.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "extended_image",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/extended_image-8.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "extended_image_library",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/extended_image_library-3.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "extended_text",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/extended_text-11.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "extended_text_field",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/extended_text_field-12.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "extended_text_library",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/extended_text_library-11.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fast_i18n",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/fast_i18n-5.12.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fc_native_video_thumbnail_for_us",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/fc_native_video_thumbnail_for_us-0.4.8+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/ffi-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "file_picker",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/file_picker-5.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/fixnum-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/typhoonchen/.fvm/versions/3.10.0/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_blurhash",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_blurhash-0.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "flutter_cache_manager",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_cache_manager-3.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_easyrefresh",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_easyrefresh-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_image_compress",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_image_compress-1.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_markdown",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_markdown-0.6.14",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-2.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "flutter_plugin_record_plus",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_plugin_record_plus-0.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_slidable_for_tencent_im",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_slidable_for_tencent_im-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/flutter_svg-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/typhoonchen/.fvm/versions/3.10.0/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "frontend_server_client",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/frontend_server_client-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "get_it",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/get_it-7.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/glob-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "graphs",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/graphs-2.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "html",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/html-0.15.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/http-0.13.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http_client_helper",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/http_client_helper-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http_multi_server",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/http_multi_server-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image_gallery_saver",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/image_gallery_saver-1.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "image_picker",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/image_picker-0.8.7+5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/image_picker_android-0.8.6+16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_for_web",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/image_picker_for_web-2.1.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "image_picker_ios",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/image_picker_ios-0.8.7+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "image_picker_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/image_picker_platform_interface-2.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "io",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/io-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/json_annotation-4.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "link_preview_generator",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/link_preview_generator-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/lints-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "loading_animation_widget",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/loading_animation_widget-1.2.0+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/logging-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "lpinyin",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/lpinyin-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "markdown",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/markdown-7.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/matcher-0.12.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/material_color_utilities-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/mime-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "octo_image",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/octo_image-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_config",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/package_config-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "package_info_plus",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/package_info_plus-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "package_info_plus_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/package_info_plus_platform_interface-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pasteboard",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/pasteboard-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_drawing",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_drawing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_provider-2.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path_provider_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.0.27",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "path_provider_foundation",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_provider_foundation-2.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "path_provider_linux",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-2.1.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "path_provider_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_provider_platform_interface-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path_provider_windows",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-2.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "permission_handler",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-10.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_android-10.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_apple",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_apple-9.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "permission_handler_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_platform_interface-3.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "permission_handler_windows",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/permission_handler_windows-0.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "photo_manager",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/photo_manager-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "platform",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/platform-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/plugin_platform_interface-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/pool-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "process",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/process-4.2.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pub_semver",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/pub_semver-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "pubspec_parse",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/pubspec_parse-1.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "quiver",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/quiver-3.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "rxdart",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/rxdart-0.27.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "scroll_to_index",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/scroll_to_index-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "scrollable_positioned_list_for_us",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/scrollable_positioned_list_for_us-0.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_android-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_foundation",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_foundation-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_linux-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_platform_interface-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_web-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences_windows-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shelf",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shelf-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shelf_web_socket",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shelf_web_socket-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "shell",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/shell-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/typhoonchen/.fvm/versions/3.10.0/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/sqflite-2.2.8+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/sqflite_common-2.4.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/stack_trace-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/stream_channel-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "stream_transform",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/stream_transform-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/synchronized-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "tencent_cloud_chat_sdk",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_chat_sdk-5.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tencent_cloud_uikit_core",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tencent_cloud_uikit_core-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tencent_im_base",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tencent_im_base-1.0.57",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "tencent_im_sdk_plugin_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tencent_im_sdk_plugin_platform_interface-0.3.21",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tencent_keyboard_visibility",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tencent_keyboard_visibility-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tencent_open_file",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tencent_open_file-4.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tencent_super_tooltip",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tencent_super_tooltip-0.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/test_api-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "tim_ui_kit_sticker_plugin",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tim_ui_kit_sticker_plugin-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "timing",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/timing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "transparent_image",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/transparent_image-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "tuple",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/tuple-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "universal_html",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/universal_html-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "universal_io",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/universal_io-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher-6.1.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_android-6.0.35",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_ios",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_ios-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_linux-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_macos-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_platform_interface-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_web-2.0.17",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/url_launcher_windows-3.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/uuid-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "video_player",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/video_player-2.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "video_player_android",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/video_player_android-2.4.8",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "video_player_avfoundation",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/video_player_avfoundation-2.4.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "video_player_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/video_player_platform_interface-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "video_player_web",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/video_player_web-2.0.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "wakelock_for_us",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/wakelock_for_us-0.6.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    },
+    {
+      "name": "wakelock_platform_interface",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/wakelock_platform_interface-0.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/watcher-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "web_socket_channel",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/web_socket_channel-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "wechat_assets_picker",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/wechat_assets_picker-8.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "wechat_camera_picker",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/wechat_camera_picker-3.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/win32-4.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "win32_registry",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/win32_registry-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/xdg_directories-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/xml-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///Users/typhoonchen/.pub-cache/hosted/pub.flutter-io.cn/yaml-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "tencent_cloud_chat_uikit",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2023-05-30T11:50:50.465783Z",
+  "generator": "pub",
+  "generatorVersion": "3.0.0"
+}
