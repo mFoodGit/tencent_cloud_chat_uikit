@@ -64,6 +64,8 @@ class TUIChatSeparateViewModel extends ChangeNotifier {
   double atPositionY = 0.0;
   int _activeAtIndex = -1;
   List<V2TimGroupMemberFullInfo?> _showAtMemberList = [];
+  ///自定义字段
+  Map<String, dynamic>? customMap;
 
   int get activeAtIndex => _activeAtIndex;
 
@@ -592,6 +594,11 @@ class TUIChatSeparateViewModel extends ChangeNotifier {
   }) async {
     String receiver = convType == ConvType.c2c ? convID : '';
     String groupID = convType == ConvType.group ? convID : '';
+    String? jsonString ;
+    if (customMap != null) {
+      jsonString = jsonEncode(customMap);
+      TIM_t("========自定义类型 = $jsonString====");
+    }
     final oldGroupType = _groupType != null
         ? GroupReceptAllowType.values[_groupType!.index]
         : null;
@@ -616,7 +623,7 @@ class TUIChatSeparateViewModel extends ChangeNotifier {
       groupID: groupID,
       offlinePushInfo: offlinePushInfo,
       onlineUserOnly: onlineUserOnly ?? false,
-      cloudCustomData: cloudCustomData ??
+      cloudCustomData: jsonString ??
           (showC2cMessageEditStatus == true
               ? json.encode({
                   "messageFeature": {
@@ -682,7 +689,7 @@ class TUIChatSeparateViewModel extends ChangeNotifier {
           id: textATMessageInfo.id as String,
           convType: ConvType.group,
           offlinePushInfo: tools.buildMessagePushInfo(
-              textATMessageInfo.messageInfo!, convID, convType));
+              textATMessageInfo.messageInfo!, convID, convType,));
     }
     return null;
   }

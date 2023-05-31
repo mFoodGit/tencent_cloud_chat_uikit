@@ -140,6 +140,9 @@ class TIMUIKitChat extends StatefulWidget {
   /// Custom text field
   final Widget Function(BuildContext context)? textFieldBuilder;
 
+  ///自定义字段
+  final Map<String, dynamic>? customMap;
+
   TIMUIKitChat(
       {Key? key,
       this.groupID,
@@ -176,7 +179,7 @@ class TIMUIKitChat extends StatefulWidget {
       this.textFieldBuilder,
       this.customEmojiStickerList = const [],
       this.customAppBar,
-      this.onSecondaryTapAvatar})
+      this.onSecondaryTapAvatar,this.customMap})
       : super(key: key) {
     startTime = DateTime.now().millisecondsSinceEpoch;
   }
@@ -218,6 +221,8 @@ class _TUIChatState extends TIMUIKitState<TIMUIKitChat> {
     }
     model.abstractMessageBuilder = widget.abstractMessageBuilder;
     model.onTapAvatar = widget.onTapAvatar;
+    //自定义
+    model.customMap = widget.customMap;
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       if (kProfileMode) {
         widget.endTime = DateTime.now().millisecondsSinceEpoch;
