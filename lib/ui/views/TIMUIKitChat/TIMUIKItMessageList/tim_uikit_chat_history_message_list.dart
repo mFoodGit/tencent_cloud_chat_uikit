@@ -388,7 +388,9 @@ class _TIMUIKitHistoryMessageListState
                   widget.mainHistoryListConfig?.clipBehavior ?? Clip.hardEdge,
               reverse: true,
               shrinkWrap: !shouldShowUnreadMessage,
-              controller: _autoScrollController,
+              controller: widget.mainHistoryListConfig?.primary == true
+                  ? null
+                  : _autoScrollController,
               slivers: [
                 SliverPadding(
                   padding:
