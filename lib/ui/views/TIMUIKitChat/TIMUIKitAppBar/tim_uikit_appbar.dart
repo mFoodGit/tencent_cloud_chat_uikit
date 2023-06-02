@@ -199,8 +199,13 @@ class _TIMUIKitAppBarState extends TIMUIKitState<TIMUIKitAppBar> {
       title: TIMUIKitAppBarTitle(
         title: setAppbar?.title,
         onClick: widget.onClickTitle,
-        textStyle: TextStyle(
-            color: theme.appbarTextColor ?? hexToColor("010000"), fontSize: 16),
+       textStyle: setAppbar?.backgroundColor != null ? const TextStyle(
+                color: Colors.white, 
+                fontSize: 17, 
+                fontWeight: FontWeight.bold) : 
+                TextStyle(
+                color: theme.appbarTextColor ?? hexToColor("010000"),
+                fontSize: 16),
         conversationShowName: _conversationShowName,
         showC2cMessageEditStatus: widget.showC2cMessageEditStatus,
         fromUser: widget.conversationID,
